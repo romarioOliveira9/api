@@ -1,0 +1,3 @@
+[submodule "msg-teste"]
+	path = msg-teste
+	url = https://github.com/romarioOliveira9/msg-teste.git
